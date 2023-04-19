@@ -514,7 +514,7 @@ a:focus {
 }
 
 .food_section .box .img-box {
-  background: #f1f2f3;
+  background: #fff; /* before color : #f1f2f3 i change to #ffffff */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -902,7 +902,7 @@ a:focus {
 .footer_section {
   background-color: #222831;
   color: #ffffff;
-  padding: 75px 0 40px 0;
+  padding: 100px 0 0 0;
   text-align: center;
 }
 
@@ -993,7 +993,7 @@ a:focus {
 
 .footer_section .footer-info {
   text-align: center;
-  margin-top: 25px;
+  margin-top: 40px;
 }
 
 .footer_section .footer-info p {
